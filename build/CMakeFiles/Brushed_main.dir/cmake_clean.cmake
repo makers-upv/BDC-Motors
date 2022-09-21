@@ -133,6 +133,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Brushed_main.dir/C_/Users/Pablo/Documents/Programacion/Firmware/RP2040/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj.d"
   "CMakeFiles/Brushed_main.dir/C_/Users/Pablo/Documents/Programacion/Firmware/RP2040/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj"
   "CMakeFiles/Brushed_main.dir/C_/Users/Pablo/Documents/Programacion/Firmware/RP2040/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj.d"
+  "CMakeFiles/Brushed_main.dir/Motor.c.obj"
+  "CMakeFiles/Brushed_main.dir/Motor.c.obj.d"
 )
 
 # Per-language clean rules from dependency scanning.

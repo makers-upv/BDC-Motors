@@ -1737,6 +1737,30 @@ C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\pi
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Brushed_main.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.s
 .PHONY : C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.s
 
+Motor.obj: Motor.c.obj
+.PHONY : Motor.obj
+
+# target to build an object file
+Motor.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Brushed_main.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Brushed_main.dir\Motor.c.obj
+.PHONY : Motor.c.obj
+
+Motor.i: Motor.c.i
+.PHONY : Motor.i
+
+# target to preprocess a source file
+Motor.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Brushed_main.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Brushed_main.dir\Motor.c.i
+.PHONY : Motor.c.i
+
+Motor.s: Motor.c.s
+.PHONY : Motor.s
+
+# target to generate assembly for a file
+Motor.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Brushed_main.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Brushed_main.dir\Motor.c.s
+.PHONY : Motor.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1944,6 +1968,9 @@ help:
 	@echo ... C_/Users/Pablo/Documents/Programacion/Firmware/RP2040/pico-sdk/src/rp2_common/pico_unique_id/unique_id.obj
 	@echo ... C_/Users/Pablo/Documents/Programacion/Firmware/RP2040/pico-sdk/src/rp2_common/pico_unique_id/unique_id.i
 	@echo ... C_/Users/Pablo/Documents/Programacion/Firmware/RP2040/pico-sdk/src/rp2_common/pico_unique_id/unique_id.s
+	@echo ... Motor.obj
+	@echo ... Motor.i
+	@echo ... Motor.s
 .PHONY : help
 
 

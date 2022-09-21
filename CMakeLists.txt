@@ -8,6 +8,7 @@ pico_sdk_init()
 
 add_executable(Brushed_main
  Brushed_main.c
+ Motor.c
  )
 
 target_link_libraries(Brushed_main

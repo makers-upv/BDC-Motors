@@ -1,5 +1,6 @@
-CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\BDC\ Motors\Brushed_main.c \
+CMakeFiles\Brushed_main.dir\Motor.c.obj: \
+ C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\BDC\ Motors\Motor.c \
+ C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\BDC\ Motors\Motor.h \
  c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\stdio.h \
  c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\_ansi.h \
  c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\newlib.h \
@@ -29,7 +30,7 @@ CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: \
  c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\sched.h \
  c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\machine\types.h \
  c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\sys\stdio.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_stdlib\include/pico/stdlib.h \
+ C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_pwm\include/hardware/pwm.h \
  C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_base\include/pico.h \
  C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_base\include/pico/types.h \
  C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_base\include/pico/assert.h \
@@ -49,12 +50,16 @@ CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: \
  C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/sio.h \
  C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_base\include/pico/types.h \
  C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_base\include/pico/error.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\pico_stdio\include/pico/stdio.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_time\include/pico/time.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_timer\include/hardware/timer.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/timer.h \
+ C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/pwm.h \
  C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_base\include/hardware/address_mapped.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/timer.h \
+ C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/pwm.h \
+ C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/dreq.h \
+ C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_dma\include/hardware/dma.h \
+ C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/dma.h \
+ C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/dma.h \
+ C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_adc\include/hardware/adc.h \
+ C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/adc.h \
+ C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/adc.h \
  C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_gpio\include/hardware/gpio.h \
  C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/sio.h \
  C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/interp.h \
@@ -64,19 +69,4 @@ CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: \
  C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/io_bank0.h \
  C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_irq\include/hardware/irq.h \
  C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/intctrl.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/m0plus.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_uart\include/hardware/uart.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/uart.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/uart.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/dreq.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\pico_stdio_usb\include/pico/stdio_usb.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_pwm\include/hardware/pwm.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/pwm.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/pwm.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_dma\include/hardware/dma.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/dma.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/dma.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_adc\include/hardware/adc.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/adc.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/adc.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\BDC\ Motors\Motor.h
+ C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/m0plus.h

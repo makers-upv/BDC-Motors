@@ -131,6 +131,7 @@ CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: C:\Users\Pablo\Documents\Program
 CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_adc\include\hardware\adc.h
 CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\adc.h
 CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\adc.h
+CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: "C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\BDC Motors\Motor.h"
 
 
 CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c
@@ -3073,6 +3074,79 @@ CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP204
 CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\pico_unique_id\include\pico\unique_id.h
 
 
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\BDC Motors\Motor.c"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\BDC Motors\Motor.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\stdio.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\_ansi.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\newlib.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\_newlib_version.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\config.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\machine\ieeefp.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\features.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\cdefs.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\machine\_default_types.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stddef.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdarg.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\reent.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\_ansi.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\_types.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\machine\_types.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\lock.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\types.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\_stdint.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\machine\endian.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\machine\_endian.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\select.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\_sigset.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\_timeval.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\timespec.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\_timespec.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\_pthreadtypes.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\sched.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\machine\types.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\stdio.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_pwm\include\hardware\pwm.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_base\include\pico.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_base\include\pico\types.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_base\include\pico\assert.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdbool.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\assert.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdint.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\stdint.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\_intsup.h"
+CMakeFiles\Brushed_main.dir\Motor.c.obj: generated\pico_base\pico\version.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_base\include\pico\config.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: generated\pico_base\pico\config_autogen.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\boards\include\boards\pico.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\cmsis\include\cmsis\rename_exceptions.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\pico_platform\include\pico\platform.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\platform_defs.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\addressmap.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\sio.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_base\include\pico\types.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_base\include\pico\error.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\pwm.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_base\include\hardware\address_mapped.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\pwm.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\dreq.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_dma\include\hardware\dma.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\dma.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\dma.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_adc\include\hardware\adc.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\adc.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\adc.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_gpio\include\hardware\gpio.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\sio.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\interp.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\padsbank0.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\pads_bank0.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\iobank0.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\io_bank0.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_irq\include\hardware\irq.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\intctrl.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\m0plus.h
+
+
 
 "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\cdefs.h":
 
@@ -3284,6 +3358,10 @@ C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardwa
 
 C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\adc.h:
 
+C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\xosc.h:
+
+"C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\BDC Motors\Motor.h":
+
 C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\lib\tinyusb\src\tusb_option.h:
 
 C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\pico_stdio_usb\include\tusb_config.h:
@@ -3442,8 +3520,6 @@ C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\pi
 
 C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\pll.h:
 
-C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\xosc.h:
-
 C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\xosc.h:
 
 C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_dma\dma.c:
@@ -3541,3 +3617,5 @@ C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\pi
 C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c:
 
 C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c:
+
+"C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\BDC Motors\Motor.c":
