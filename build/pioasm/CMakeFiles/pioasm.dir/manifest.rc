@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Pablo/Documents/Programacion/Firmware/RP2040/BDC Motors/build/pioasm/CMakeFiles/pioasm.dir/embed.manifest"

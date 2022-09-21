@@ -1,0 +1,3 @@
+C:/Users/Pablo/Documents/Programacion/Firmware/RP2040/BDC Motors/build/pioasm/CMakeFiles/pioasm.dir
+C:/Users/Pablo/Documents/Programacion/Firmware/RP2040/BDC Motors/build/pioasm/CMakeFiles/edit_cache.dir
+C:/Users/Pablo/Documents/Programacion/Firmware/RP2040/BDC Motors/build/pioasm/CMakeFiles/rebuild_cache.dir
