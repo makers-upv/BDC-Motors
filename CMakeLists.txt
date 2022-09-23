@@ -15,7 +15,8 @@ target_link_libraries(Brushed_main
  pico_stdlib 
  hardware_pwm 
  hardware_adc
- hardware_dma)
+ hardware_dma
+ hardware_spi)
 
 pico_add_extra_outputs(Brushed_main)
 

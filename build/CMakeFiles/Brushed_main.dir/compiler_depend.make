@@ -132,6 +132,9 @@ CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: C:\Users\Pablo\Documents\Program
 CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\adc.h
 CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\adc.h
 CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: "C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\BDC Motors\Motor.h"
+CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\include\hardware\spi.h
+CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\spi.h
+CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\spi.h
 
 
 CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c
@@ -1918,6 +1921,53 @@ CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP204
 CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\resets.h
 
 
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_resets\include\hardware\resets.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_base\include\pico.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_base\include\pico\types.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_base\include\pico\assert.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdbool.h"
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\assert.h"
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\_ansi.h"
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\newlib.h"
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\_newlib_version.h"
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\config.h"
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\machine\ieeefp.h"
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\features.h"
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdint.h"
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\stdint.h"
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\machine\_default_types.h"
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\_intsup.h"
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\_stdint.h"
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stddef.h"
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: generated\pico_base\pico\version.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_base\include\pico\config.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: generated\pico_base\pico\config_autogen.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\boards\include\boards\pico.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\cmsis\include\cmsis\rename_exceptions.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\pico_platform\include\pico\platform.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\platform_defs.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\addressmap.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\sio.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\sys\cdefs.h"
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_base\include\pico\types.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_base\include\pico\error.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\resets.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_base\include\hardware\address_mapped.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\resets.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_clocks\include\hardware\clocks.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\clocks.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\clocks.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\include\hardware\spi.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_time\include\pico\time.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_timer\include\hardware\timer.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\timer.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\timer.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\spi.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\spi.h
+CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\dreq.h
+
+
 CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_sync\sync.c
 CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_sync\include\hardware\sync.h
 CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_base\include\pico.h
@@ -3145,6 +3195,13 @@ CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\F
 CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_irq\include\hardware\irq.h
 CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\intctrl.h
 CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\m0plus.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\include\hardware\spi.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\common\pico_time\include\pico\time.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_timer\include\hardware\timer.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\timer.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\timer.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\spi.h
+CMakeFiles\Brushed_main.dir\Motor.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\spi.h
 
 
 
@@ -3362,6 +3419,12 @@ C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardwa
 
 "C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\BDC Motors\Motor.h":
 
+C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\include\hardware\spi.h:
+
+C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\spi.h:
+
+C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\spi.h:
+
 C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\lib\tinyusb\src\tusb_option.h:
 
 C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\pico_stdio_usb\include\tusb_config.h:
@@ -3541,6 +3604,8 @@ C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\ha
 C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_uart\uart.c:
 
 C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_pll\pll.c:
+
+C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\spi.c:
 
 C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_sync\sync.c:
 

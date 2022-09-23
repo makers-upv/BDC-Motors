@@ -78,6 +78,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Brushed_main.dir/C_/Users/Pablo/Documents/Programacion/Firmware/RP2040/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj"
   "CMakeFiles/Brushed_main.dir/C_/Users/Pablo/Documents/Programacion/Firmware/RP2040/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj"
   "CMakeFiles/Brushed_main.dir/C_/Users/Pablo/Documents/Programacion/Firmware/RP2040/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj.d"
+  "CMakeFiles/Brushed_main.dir/C_/Users/Pablo/Documents/Programacion/Firmware/RP2040/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj"
+  "CMakeFiles/Brushed_main.dir/C_/Users/Pablo/Documents/Programacion/Firmware/RP2040/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj.d"
   "CMakeFiles/Brushed_main.dir/C_/Users/Pablo/Documents/Programacion/Firmware/RP2040/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj"
   "CMakeFiles/Brushed_main.dir/C_/Users/Pablo/Documents/Programacion/Firmware/RP2040/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj.d"
   "CMakeFiles/Brushed_main.dir/C_/Users/Pablo/Documents/Programacion/Firmware/RP2040/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj"
