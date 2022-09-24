@@ -22,7 +22,13 @@
     
     #define SPI_PORT spi0
    
+   
+    
+    
+
+    int diagnosis();
     void motor_setup();
     void motor_pwm(uint16_t duty, uint16_t frec);  
         
+    
 #endif

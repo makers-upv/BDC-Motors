@@ -135,6 +135,7 @@ CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: "C:\Users\Pablo\Documents\Progra
 CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\include\hardware\spi.h
 CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\spi.h
 CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\spi.h
+CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\arm-none-eabi\include\math.h"
 
 
 CMakeFiles\Brushed_main.dir\C_\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj: C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c

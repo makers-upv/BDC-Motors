@@ -82,4 +82,5 @@ CMakeFiles\Brushed_main.dir\Brushed_main.c.obj: \
  C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\BDC\ Motors\Motor.h \
  C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2_common\hardware_spi\include/hardware/spi.h \
  C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/spi.h \
- C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/spi.h
+ C:\Users\Pablo\Documents\Programacion\Firmware\RP2040\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/spi.h \
+ c:\progra~2\gnuarm~1\102021~1.10\arm-none-eabi\include\math.h

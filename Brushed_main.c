@@ -5,6 +5,7 @@
 #include "hardware/adc.h"
 #include "hardware/gpio.h"
 #include "Motor.h"
+#include "math.h"
 
 
 
@@ -54,6 +55,8 @@ void setupADC() {
   adc_gpio_init(27);
 }
 
+
+
 int main() {
     stdio_init_all();
 
@@ -66,17 +69,36 @@ int main() {
     struct repeating_timer timer;
     add_repeating_timer_us(500, repeating_timer_callback, NULL, &timer);
     sleep_ms(3000);
-    uint8_t reg, buffer[1];
-    reg =0b00000000;  //declare register
-    while(1){
-      gpio_put(CS,0); //Start comunication
-      
-      //spi_write_blocking(SPI_PORT, &reg, 1);
-      spi_read_blocking(SPI_PORT, reg, buffer, 1);  //Read register "reg" in buffer "buffer"
-      gpio_put(CS,1); //Stop comms
 
-      printf("%b\n",buffer[0]); //Print byte
-      sleep_ms(1000);
+
+
+    while(1){
+
+      
+      diagnosis();
+      sleep_ms(10);
+      
+
+      //Code to read USB uart in a non blocking way
+      int value = getchar_timeout_us(100);
+
+      //If a msg arrives, do something depending on payload
+      //This probably will be hidden on a function
+      if(value != PICO_ERROR_TIMEOUT){  
+        switch (value)
+        {
+        case 'A':
+          printf("A");
+          break;
+        case 'B':
+          printf("B");
+          break;
+        default:
+         printf("%d\n",value);
+          break;
+        }
+      }
+       
     }
     
 }
